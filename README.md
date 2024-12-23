@@ -9,7 +9,7 @@ This repository contains the implementation of **TempoKGAT**, a novel Graph Atte
 
 ## Reference
 For further details, please refer to the paper:  
-**"TempoKGAT: A Novel Graph Attention Network Approach for Temporal Graph Analysis"**  
+**"[TempoKGAT: A Novel Graph Attention Network Approach for Temporal Graph Analysis"](https://arxiv.org/abs/2408.16391)**  
 by Lena Sasal, Daniel Busby, and Abdenour Hadid.
 
 
